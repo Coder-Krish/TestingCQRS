@@ -1,9 +1,14 @@
-﻿using MediatR;
+﻿using System.Reflection;
+using System.Reflection.Metadata;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Office.Interop.Word;
 using TestingLibrary.Commands;
 using TestingLibrary.Models;
 using TestingLibrary.Queries;
+using Document = Microsoft.Office.Interop.Word.Document;
+using Range = Microsoft.Office.Interop.Word.Range;
 
 namespace API.Controllers;
 
@@ -52,4 +57,5 @@ public class PersonController
     {
         return await _mediator.Send(new AddPersonsCommand(_person: person));
     }
+    
 }

@@ -1,13 +1,13 @@
+D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.AssemblyInfoInputs.cache
+D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.AssemblyInfo.cs
+D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.csproj.CoreCompileInputs.cache
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\bin\Debug\net6.0\TestingLibrary.deps.json
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\bin\Debug\net6.0\TestingLibrary.runtimeconfig.json
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\bin\Debug\net6.0\TestingLibrary.dll
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\bin\Debug\net6.0\ref\TestingLibrary.dll
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\bin\Debug\net6.0\TestingLibrary.pdb
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.csproj.AssemblyReference.cache
-D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.GeneratedMSBuildEditorConfig.editorconfig
-D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.AssemblyInfoInputs.cache
-D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.AssemblyInfo.cs
-D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.csproj.CoreCompileInputs.cache
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.dll
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\ref\TestingLibrary.dll
 D:\Learning\Projects\TestingPurposeOnly\TestingLibrary\obj\Debug\net6.0\TestingLibrary.pdb
